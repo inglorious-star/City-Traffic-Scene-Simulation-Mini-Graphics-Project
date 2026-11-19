@@ -1,5 +1,7 @@
 # 🚦 City Traffic Scene Simulation
 
+> 🎓 Lab project for **CSE412: Computer Graphics Lab**, Daffodil International University · Team of 3
+
 A 2D animated city scene built with **OpenGL** and **FreeGLUT** in **C++**. The scene shows buildings, trees, clouds, birds, a sun, and two buses driving in opposite directions on a two-lane road — just like real city traffic.
 
 ## ✨ Features
@@ -60,8 +62,8 @@ brew install freeglut
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/city-traffic-simulator.git
-   cd city-traffic-simulator
+   git clone https://github.com/inglorious-star/City-Traffic-Scene-Simulation-Mini-Graphics-Project.git
+   cd City-Traffic-Scene-Simulation-Mini-Graphics-Project
    ```
 
 2. Compile the program:
@@ -100,10 +102,10 @@ A window titled **"City Traffic Scene Simulation"** will open, showing the anima
 ## 📁 Project Structure
 
 ```
-city-traffic-simulator/
-├── main.cpp        # All the source code (shapes, objects, animation)
-├── README.md        # This file
-└── screenshot.png   # (optional) A picture of the running program
+City-Traffic-Scene-Simulation-Mini-Graphics-Project/
+├── main.cpp                       # All the source code (shapes, objects, animation)
+├── CTSS Project Report Final.pdf   # Full project report
+└── README.md                      # This file
 ```
 
 ---
